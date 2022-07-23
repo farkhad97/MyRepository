@@ -6,5 +6,9 @@ privet, menya zovut farxadik
 privet a menya zovut musu
 
 
+<<<<<<< HEAD
 privet a menya zovut internship
 
+=======
+a ya pupsik
+>>>>>>> intern
